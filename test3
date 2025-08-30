@@ -1,0 +1,45 @@
+student('Moore', 'morning').
+student('Foster', 'evening').
+student('Lee', 'evening').
+student('Roberts', 'morning').
+student('Murphy', 'morning').
+student('Davis', 'morning').
+student('Collins', 'morning').
+student('Wood', 'morning').
+student('Jackson', 'evening').
+student('Gray', 'morning').
+student('Scott', 'morning').
+student('Evans', 'morning').
+student('King', 'morning').
+student('Palmer', 'evening').
+student('Cooper', 'morning').
+student('White', 'evening').
+student('Adams', 'morning').
+student('Kelly', 'morning').
+student('Fox', 'morning').
+student('Simpson', 'evening').
+student('Hunter', 'morning').
+student('Allen', 'evening').
+student('Moss', 'morning').
+student('Walker', 'evening').
+student('Begum', 'morning').
+student('Martin', 'evening').
+student('Lewis', 'morning').
+student('Powell', 'evening').
+student('Ward', 'evening').
+student('Parker', 'morning').
+student('Fisher', 'evening').
+student('Watson', 'evening').
+student('Campbell', 'morning').
+student('Ellis', 'morning').
+student('Stevens', 'morning').
+student('Thompson', 'morning').
+student('Russell', 'evening').
+student('Butler', 'morning').
+student('Lloyd', 'morning').
+student('Carter', 'evening').
+
+teacher('Mr. Bell', ['morning'], 2).
+teacher('Mrs. Hill', ['morning', 'evening'], 4).
+teacher('Ms. Bennett', ['morning'], 6).
+teacher('Mr. Holmes', ['evening'], 4).
