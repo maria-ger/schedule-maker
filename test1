@@ -1,0 +1,19 @@
+student('Smith', 'morning').
+student('Adams', 'morning').
+student('Moore', 'morning').
+student('Brown', 'evening').
+student('Foster', 'evening').
+student('Lee', 'evening').
+student('Roberts', 'morning').
+student('Murphy', 'morning').
+student('Davis', 'morning').
+student('Collins', 'morning').
+student('Wood', 'morning').
+student('Jackson', 'evening').
+student('Gray', 'morning').
+student('Scott', 'evening').
+student('Mitchell', 'evening').
+student('Evans', 'morning').
+student('Cooper', 'morning').
+
+teacher('Mr. Richards', ['morning', 'evening'], 6).
